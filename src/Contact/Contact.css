@@ -1,0 +1,107 @@
+/* Contact.css */
+.heading {
+    text-align: left;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Style for the main heading */
+  .mainheading h1 {
+    font-size: 48px;
+    color: #007bff; /* Change the color of the main heading to blue */
+    text-align: center;
+  }
+  .head1>h2
+  {
+    text-align:left;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  .head2>h2
+  {
+    text-align:left;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  .head3>h2
+  {
+    text-align:left;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  .head4>h2
+  {
+    text-align:left;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  
+  
+  /* Style for the paragraphs */
+  .para p {
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .para1 p {
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .para2 p{
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .para2>p>a{
+    color: #007bff;
+  }
+  .para3 p{
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .para4 p{
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  /* Style for the last paragraph */
+  .para5 p {
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #007bff; /* Change the color of the last paragraph to blue */
+    font-weight: bold;
+  }
+  

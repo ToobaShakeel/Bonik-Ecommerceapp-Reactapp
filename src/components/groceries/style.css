@@ -1,0 +1,16 @@
+
+.Groc {
+  background: #f6f9fc;
+  padding: 50px 0;
+}
+/* GrocImages.css */
+
+/* Target only the images within the .Groc component */
+.Groc img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  align-items: center;
+}
+
+/* You can add more specific styles for the images if needed */

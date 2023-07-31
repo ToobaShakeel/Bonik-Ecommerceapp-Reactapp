@@ -1,0 +1,22 @@
+
+.fashion {
+    background: #f6f9fc;
+    padding: 50px 0;
+    width: auto;
+    height: auto;
+  }
+  /* GrocImages.css */
+  
+  /* Target only the images within the .Groc component */
+.fashion img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    align-items: center;
+  }
+  .fashion .container{
+    width: fit-content;
+    height: fit-content;
+  }
+  /* You can add more specific styles for the images if needed */
+  

@@ -1,0 +1,68 @@
+const HGdata = {
+    HGItems: [
+      {
+        id: 1,
+        cover: "./images/HG/HG1.png",
+        name: "White Chair With Wooden Legs",
+        price: 1500,
+      },
+      {
+        id: 2,
+        cover: "./images/HG/HG2.png",
+        name: "Grey Wooden Chair",
+        price: 2500,
+      },
+      {
+        id: 3,
+        cover: "./images/HG/HG3.png",
+        name: "Ash White Chair",
+        price: 1500,
+      },
+      {
+        id: 4,
+        cover: "./images/HG/HG4.png",
+        name: "Study Table",
+        price: 5000,
+      },
+      {
+        id: 5,
+        cover: "./images/HG/Hg5.png",
+        name: "Study Lamp",
+        price: 1500,
+      },
+      {
+        id: 6,
+        cover: "./images/HG/Hg6.png",
+        name: "Lamp for Bedroom Sidetable",
+        price: 2500,
+      },
+      {
+        id: 7,
+        cover: "./images/HG/HG7.png",
+        name: "Folding Table For Garden",
+        price: 2000,
+      },
+      {
+        id: 8,
+        cover: "./images/HG/HG8.png",
+        name: "Raised-bed gardening Flower garden Flowerpot ",
+        price: 1500,
+      },
+      {
+        id: 9,
+        cover: "./images/HG/HG9.png",
+        name: "green succulent plants ",
+        price: 1500,
+      },
+      {
+        id: 10,
+        cover: "./images/HG/HG10.png",
+        name: "green succulent plants With Grey Flowerpot ",
+        price: 3000,
+      },
+      
+    ],
+  };
+  
+  export default HGdata;
+  
